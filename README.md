@@ -1,5 +1,5 @@
 ## Hi there !
-### Im a front-end web developer
+### Im a front-end web developer (html, css, js)
 #### And i have 7 kyu on the Codewars 😎
 
 <!--
