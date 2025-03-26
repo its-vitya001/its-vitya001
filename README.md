@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there !
+### Im a front-end web developer 
+#### I have 7 kyu on codewars !
 
 <!--
 **sidnix001/sidnix001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
